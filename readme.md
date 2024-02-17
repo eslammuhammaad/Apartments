@@ -55,7 +55,7 @@ Here are some snapshots of Both Mobile and Web application:
  Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/eslammuhammaad/Apartments
 ```
 ### Backend
 
@@ -78,11 +78,5 @@ git clone <repository-url>
 3. Start the Expo development server using `npm start`.
 4. Use Expo Go app on your mobile device to scan the QR code and view the mobile application.
 
-## Technologies Used
-
-- Nest.js
-- Next.js
-- React Native
-- Expo
 
 
